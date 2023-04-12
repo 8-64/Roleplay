@@ -7,15 +7,15 @@
 
 *Hircinius studied his hand, starting from his three fingers and a thumb and going up. It was chewed up by a zombie. Not that bad as it sounds, but still, there were few droplets of blood and lymph oozing out.*
 
-- Meeeh, what a barkle it would be to end and pass out in a place like this! At least it's Krynn, not some long-forgotten shithole like Klah!
+— Meeeh, what a barkle it would be to end and pass out in a place like this! At least it's Krynn, not some long-forgotten shithole like Klah!
 
 *Goatman frantically flipped through his possessions, until he found an old, dusty tome, bound in a heavy corroded metal frame with omnious imaginery stamped on it. Second rummaging, and it was joined by the bottle of ink*
 
-- Yeah, that will do! I can't find most of proper spices here anyway!
+— Yeah, that will do! I can't find most of proper spices here anyway!
 
 *Hircinius doused his tail in a bottle, opened the tome with a creaking sound and shuffled the pages until there were few mostly blank ones in a row*
 
-- Oooh, my old tail aches! Maybe this sort of a massage helps.
+— Oooh, my old tail aches! Maybe this sort of a massage helps.
 
 *For a while, darkness was disrupted only by wet splotching sound as Hircinius was scribing using the tail tip:*
 
@@ -140,12 +140,12 @@ And thus we went down the river. Bend after bend, confluence after confluence. Q
 
 Somewhere along the road, I fed pate to fishes. I put a lot of effort into making it, but it was spoiled now - there was mushroom growth all over it.
 
-Soon, we approached place named Auchan, followed by trail of belly-up swimming fish. Must be a quirk of local fish.
+Soon, we approached place named Auchuran, followed by trail of belly-up swimming fish. Must be a quirk of local fish.
 
 As the raft was secured, the ferret jumped out of it and run away! We had a ferret with us the whole time! Maybe it was polymorphed Jewel having second thoughts?
 
 Against all the sane wisdom, we entered the settlement and approached locals. They were excited to see us, especially our elven friend Meredith.
-From what I got, Auchan ruled by kingdom named Solamnia. Hope it's not some totalitarian dictatorship!
+From what I got, Auchuran ruled by kingdom named Solamnia. Hope it's not some totalitarian dictatorship!
 Locals said that tomorrow Solamnian Knights will come and personally welcome us. Hm...
 
 Meredith eyes and skin are changing all the time in a colourful pattern, following the arrangement of moons in the sky. Makes sense. This night they changed again.
@@ -218,45 +218,48 @@ Hircinius scanned the basement. Any more twitching unpacified undead? Pupils of 
 
 Suddenly, a realisation struck him. What abouth the other pocket? Haven't been checked.
 
-- Aha! Here is where my forensics. I did not sneezed into it, meh!
+— Aha! Here is where my forensics. I did not sneezed into it, meh!
 
 Hircinius extracted an old tattered scrap of parchment somewhere from under his chainshirt. The longer its folds and creases was observed, the more recognizable was resemblance of a screaming flattened face on it.
 
 Besides semi-visible face, words in Diabolian were stamped on it:
 
-> [YOU'RE INVITED]
-> [THE NIGHT PARADE PROUDLY PRESENTS]
-> [NEVER-MEANT-NEVER-ENDING PARTY]
-> [MEET THE SECRET GUESTS: HARPERS]
+```
+	[YOU'RE INVITED]
+	[THE NIGHT PARADE PROUDLY PRESENTS]
+	[NEVER-MEANT-NEVER-ENDING PARTY]
+	[MEET THE SECRET GUESTS: HARPERS]
+```
 
 - Ah, got that leaflet many-many harvests ago... Sweet old times.
 
 Hircinus turned over the leaflet and checked notes that he scibed earlier on the back:
 
-> Lost people: Desiree, [stains], Morgan
-> We were met: by Gunar, Morgan's father
-> Female elf: Kithara Timms
-> Huge graveyard, series of tunnels under the hill
->
-> Found 2 bodies:
-> - Male dwarf
-> - Female human
+```
+	Lost people: Desiree, [stains], Morgan
+	We were met: by Gunar, Morgan's father
+	Female elf: Kithara Timms
+	Huge graveyard, series of tunnels under the hill
+
+	Found 2 bodies:
+	- Male dwarf
+	- Female human
+```
 
 Hircinius looked around, poked ino one corpse, stuck a finger into its ear, sniffed it, and quickly added one more line (tail was still wet with the ink):
 "- Human body, seems to be unrelated to sacrifices (?), just was not prepared for the burial yet"
 
 
-
 Hircinius picked up a small lump of zombie's brain, mashed it, and thinly spread over the front of the leaflet.
 And glued it as a next page into the impromptu diary/recipe book.
 
-- Now it's all copacetic!
+— Now it's all copacetic!
 
 With that, Hircinius firmly slammed the tome shut.
 
 ## Third
 
-- Oi, diary!
+— Oi, diary!
 I lived long enough to write another entry! Now with an ample supply of the _best ink possible_!
 Need to notice that I won't survive the second bloodletting like this.
 
@@ -335,3 +338,142 @@ We went one-by-one over it, me going the last. Surprisingly, all went well.
 And then, just after I put my hoof on a solid ground, bridge crashed down with unbelievably loud, dimensions-piercing sound.
 There is no way back now.
 
+## Fourth
+
+— Oi, I am back! Things disrupted the flow of my tale, but they've been taken care of. Method was brutal and efficient. So, after the broken bridge... I need more stuff for writing on first!
+
+*Hircinius perched on the edge of a beatufil sparkling fountain. Stone dragon figurine spewed forth a thick jet of fresh, reinvigorating water. This time, Hircinius was writing using a common ink, poking the tail tip into the water, then into the ink bottle, and taking care as to not contaminate the pristine water of the fountain.*
+
+*Goatman pulled out a scroll from the bag. It was thick, __serious__. A short inscription in Draconic omniously warned:*
+
+```
+We who rest still long to serve.
+If you seek the same, take our goods and be blessed.
+If greed moved this stone and not a true heart, may our curse find you [moth-eaten]ere we awake
+```
+
+— Nice. That will do!
+
+*Ignoring the warning, Hircinius tore the scroll into few sheets and put them into the diary, expanding it with a much-needed blank space, making it ready to cover his recent adventurers. With renewed focus, he resumed writing, detailing every step of his journey in the world of Krynn.*
+
+Now, as the blank pages issue is taken care of - about the after-bridge time.
+
+We found ourseleves in a wide corridor with two half-open doors to the left and to the right.
+After cautiously peeking into the right one, we decided go into the left one. But not so fast! - Meridith stopped us. There is a beast inside! Some type of an overgrown ferret?
+
+Meridith knew more about the beast than he told us. Or it was telepathy? Beast desired tasties and shinies. With the first one I readily supplied 2 travel rations, and for the second desire, - I reminded Twinkie that as a gnome she can use her power of magical prestigitation - one that can turn a common pebble into something that could pass for a gemstone. At least for an hour.
+
+Really funny word - try pronouncing it fast: "prestidigitation", "prestidigitation", "prestidigitation"...
+And that is why you need to wait for a few hours when striking a deal with a gnome, or make sure it won't run away. Precious stones and fabrics might be worthless pebbles and rags, just enchanted with glamours and magics!
+
+Now, the ferret-thingie was satisfied by food and colored pebbles, and moved somewhere back and then rapidly up? At least it did not attacked.
+Following the trail, we found ourselves at the bottom of a collapsed sinkhole! Scattered beams of daylight shone down upon us from above.
+Some pitons were already put into the wall.
+
+We ascended. Having a lot of spare rope helps.
+Sinkhole widened into the platform with trees and greens and a blue sky above. Our guard was momentarily down. For a moment I thought we're going to get dismembered by angry trees. Happens sometimes.
+I heard a guttural sound, something like a "blargk!" and barely managed to jump away from the ball of acid thrown at my legs!
+IT WAS NOT ENTS, IT WAS SOME THICK-SKINNED TENTACLED CANINE!
+Twinkie whispered word of encouragement. It helps, I hope, for we need anything that could give an advantage. Beast happened to be unexpectedly tough, shrugging away combined assault from four creatures as if we were rubbing its tummy, not trying to pound it into mincemeat.
+Lady Luck was on our side this time. Beast missed few times, while we continued to scratch it, trying to break through its thick hide.
+Well, nothing runs forever, especially luck. It got me and Meridith, and got us bad! One more hit like this and we're down!
+But the beast was not in a good shape either, collecting hits and bruises.
+It went belly-up, and not for the rubs, before it could down any of us. VICTORY!
+
+No more beasts or angry trees were coming, giving an opportunity to lick our wounds and recuperate.
+As I wrote earlier, blood is a good ink (especially when it is not mine). So I chronicled what has happened so far.
+
+Then, a sudden realisation dawned on me. I have the knowledge of magic, true, but what I'm missing is perseverance. It's subtle at times, like a distinction between adventure and endeavor: one relies on a stroke of luck, while the second needs long concentrated effort.
+Forcing order over chaos is never an easy task, one that many will miserably fail at. Like me before.
+But this time, I kept pushing. Few unseen electrons at fist, followed by microscopic sparkle between two motes of dust.
+Spontaneous currents began to align.
+I repeated the incantation, maybe for the thousandth time, calling on the rage of my youth. To my surprise, matter of Krynn responded with a fierce reaction, one I had never thought to see again.
+It was more than just sparkles of a Shocking Grasp. The spell flowed into the weapon I had at hand - spiked chain - and animated it! Like a rabid snake, it thrashed and lunged around, searching for live beings to fry and metallic massess to connect to. 
+Long-forgotten Art, one that combined might and magic, had been reborn in Krynn, at my hands.
+
+I noticed Meridith staring at me. Surely he is impressed by this stunning display of Art! Surprise: instead of an applause, he asked a question:
+
+— Where are your belongings? Have you checked them?
+
+— Wha, why? - stuttered I. — Right here!
+
+But they were not. My hand grasped at nothing but a thin air. Chunk of rope, clearly cut, was all that remained.
+
+"— Coal", - softly said Meridith - "Give it back."
+
+— "I have no idea what you're talking about!" - Coal's reply was unconvincing. 
+
+Meridith's eyes glowed up with an inner light. Exacerbating the contrast, his face turned pitch black, becoming a dark, light-absorbing void.
+
+In a hindsight, how silly was of me to think that only I had gotten better at the Art! Looking into the eyes of Death, you either become stronger, or succumb to it.
+
+— "Don't ever steal from your party members and give back the weapons you took previously." - Meridith said and Coal obeyed.
+
+Bag of holding exchanged hands, coming back to its familiar place.
+With a "troomp!" sound, another bag, full of weapons that Coal has pocketed, fell down. I was more impressed than angry - it takes balls to steal from awake armed people during the fight. That's not something your average run-of-the-mill berk woud ever dare to do!
+
+It wasn't the end of surprises for the day. As Meridith deeply stared at me, ripples formed on the void of his face, and in a blink there was a SECOND ME!
+
+He took on my appearance! I was double-robbed today!
+
+— Hey, looking good! - I commented. — But I know what will make it even better... I've got an idea.
+
+How Meridith can make it better? By taking a female diabolus visage, of course! I had just a thing for this: medallion with a lovely diva image, gifted to me by her personally many harvests ago. Medallion was instrumental for lightening up the mood during lone evenings the whole time we travelled by raft.
+
+I reached down into the pocket, but my hand closed around nothing but fluff. Another pocket? Nothing. COAL? COAL!
+
+— Coal, where are you?
+
+No answer. No halfling in sight. Only quiet creaking coming from ropes and pitons. He run back into the underground!
+
+No words were needed. We descended as fast as we could, balancing speed and chance to become an omelette.
+
+Coal was right there, in front of a collapsed bridge, deep in contemplation. Was he thinking how to cross it?
+
+There was no time to think what to do with Coal. No end for surprises today.
+Out of nowhere, an orc barbarian charged and downed Coal in one hit! He fell down like a bag with potatoes. Probably, chunks of his brain still were thinking what to do next.
+
+An orc roared triumphantly:
+"— I sniffed him! He's evil!"
+
+Now, I'm all for punishing thieves, but outright killing the person (even if it might be a kender) is inexcusable. I readied my weapon but couldn't resist making a comment:
+
+— Wow Twinkie, are you aware about existence of the Magical Axiom of triplets and quintuplets? It stipulates that rare magical effects happens in sequences of three or five. I wonder, are we witnessing triplet or quantuplet?
+
+That brought an attention of an orc to us. Doubt he understood anything of what I said.
+
+"— Are you evil? I can sniff it!" - come from him.
+
+— Hey, you killed him! You can't just kill people even if they're evil! You need a trial!
+
+"— Wha? Are you with him? Are you friend?" - *Sniff, sniff*
+
+At that moment, I stared casting uttering arcance invokations, opening my mind to see into the nearest future. Presented with in-one-hit killing machine, you want to be sure to act right and strike hard. To my surprise, in the vision orc was still standing in the same place, just a little bit angrier. 
+
+"— What is that?" - howled orc.
+
+— Has he stolen from you? - I retorted.
+
+Aha! That was what made him angrier.
+
+— "Yes! That is why I tracked and killed him!" - confirmed the orc.
+
+— We're friends, sure, but just killing people for thievery is wrong. Let's check on him, and give hime at least a proper burial! - I don't want to anger him any further. Especially seeing as out of companions, only I was somewhat concerned with the deed.
+
+"— Why it is?"
+
+— We should pay him some last respect. Plus, I need to check if one precious medallion is still with him. -  I looked at Meridith who still was a duplicate of me - It has a perfect example to use for your newfound transformation.
+
+That somewhat agitated Meridith. He looked at the orc and commanded:
+
+"— No, no. I say you just throw the corpse down."
+
+Orc immediately followed the order and tossed the corpse down. Halfling fell into the darkness, and the loud "splash" was his eulogy. Was it my imagination, or I heard "nom-nom-nom" sounds coming from below afterwards?
+
+My precious medallion was gone.
+
+With no corpse, there was no more room for bickering. Orc introduced himself as "Krull", and we returned the favor.
+
+Another thought formed in my head: if Coal stole from Krull, then the gold was still with the corpse when it was thrown down. I decided it was best to keep this to myself, - Krull might jump down or rage. Maybe even both at the same time.
+
+— Anyway, nice to meet you, Krull! The bridge is collapsed, we came from the left opening. Let's go to the right this time? Take this masterwork greataxe as a token of our friendship!
