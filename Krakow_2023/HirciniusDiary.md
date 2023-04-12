@@ -19,13 +19,15 @@
 
 *For a while, darkness was disrupted only by wet splotching sound as Hircinius was scribing using the tail tip:*
 
-> Find a lightbug larvae that are in a third stage of molting.
-> Do not confuse with a wispbug! It is deadly! Lightbug glows with a yellowish hue, while wispbug - with bluish!
-> Do not collect older larvae! They are deadly because of accumulated toxins!
-> Do not collect younger ones! They will burrow into your fingers!
-> Collect a whole cup.
-> Gently squeeze out bowels - you don't want them! They taste awfully and are deadly poisonous!
-> You know that it is good if it still squiggling, so proceed with...(spots and stains cover the rest of the recipe)
+```
+	Find a lightbug larvae that are in a third stage of molting.
+	Do not confuse with a wispbug! It is deadly! Lightbug glows with a yellowish hue, while wispbug - with bluish!
+	Do not collect older larvae! They are deadly because of accumulated toxins!
+	Do not collect younger ones! They will burrow into your fingers!
+	Collect a whole cup.
+	Gently squeeze out bowels - you don't want them! They taste awfully and are deadly poisonous!
+	You know that it is good if it still squiggling, so proceed with...(spots and stains cover the rest of the recipe)
+```
 
 ***
 
@@ -231,7 +233,7 @@ Besides semi-visible face, words in Diabolian were stamped on it:
 	[MEET THE SECRET GUESTS: HARPERS]
 ```
 
-- Ah, got that leaflet many-many harvests ago... Sweet old times.
+— Ah, got that leaflet many-many harvests ago... Sweet old times.
 
 Hircinus turned over the leaflet and checked notes that he scibed earlier on the back:
 
